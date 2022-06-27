@@ -7,7 +7,7 @@ holoviews==1.13.3
 hvplot==0.6.0
 matplotlib==3.3.0
 missingno==0.4.2
-numpy==1.19.0
+numpy==1.22.0
 openpyxl==3.0.4
 pandas==1.0.5
 pillow==9.0.1
