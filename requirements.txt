@@ -1,5 +1,5 @@
 # supporting libraries
-black==19.3b0
+black==24.3.0
 bokeh==2.1.1
 dask[complete]==2.21.0
 holoplot==0.1.0
